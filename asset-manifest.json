@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MayankRai89/TextUtils-React.git/static/css/main.f855e6bc.css",
-    "main.js": "/MayankRai89/TextUtils-React.git/static/js/main.c42a0d82.js",
-    "static/js/453.96453769.chunk.js": "/MayankRai89/TextUtils-React.git/static/js/453.96453769.chunk.js",
-    "static/media/logo.svg": "/MayankRai89/TextUtils-React.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MayankRai89/TextUtils-React.git/index.html",
-    "main.f855e6bc.css.map": "/MayankRai89/TextUtils-React.git/static/css/main.f855e6bc.css.map",
-    "main.c42a0d82.js.map": "/MayankRai89/TextUtils-React.git/static/js/main.c42a0d82.js.map",
-    "453.96453769.chunk.js.map": "/MayankRai89/TextUtils-React.git/static/js/453.96453769.chunk.js.map"
+    "main.css": "/TextUtils-React/static/css/main.f855e6bc.css",
+    "main.js": "/TextUtils-React/static/js/main.6befccf9.js",
+    "static/js/453.96453769.chunk.js": "/TextUtils-React/static/js/453.96453769.chunk.js",
+    "static/media/logo.svg": "/TextUtils-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TextUtils-React/index.html",
+    "main.f855e6bc.css.map": "/TextUtils-React/static/css/main.f855e6bc.css.map",
+    "main.6befccf9.js.map": "/TextUtils-React/static/js/main.6befccf9.js.map",
+    "453.96453769.chunk.js.map": "/TextUtils-React/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c42a0d82.js"
+    "static/js/main.6befccf9.js"
   ]
 }
